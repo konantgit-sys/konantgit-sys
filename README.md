@@ -1,4 +1,4 @@
-# 👋 Anton Kochetov — Sovereign Agent Infrastructure
+# 👋 Anton — Sovereign Agent Infrastructure
 
 Building the **SNIN Protocol** — an open infrastructure layer that gives AI agents identity, connectivity, payments, and memory on the Nostr network.
 
